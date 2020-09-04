@@ -1,0 +1,11 @@
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/practice/bin/Release/netcoreapp2.2/practice.deps.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/practice/bin/Release/netcoreapp2.2/practice.runtimeconfig.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/practice/bin/Release/netcoreapp2.2/practice.runtimeconfig.dev.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/practice/bin/Release/netcoreapp2.2/practice.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/practice/bin/Release/netcoreapp2.2/practice.pdb
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/practice/obj/Release/netcoreapp2.2/practice.csprojAssemblyReference.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/practice/obj/Release/netcoreapp2.2/practice.csproj.CoreCompileInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/practice/obj/Release/netcoreapp2.2/practice.AssemblyInfoInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/practice/obj/Release/netcoreapp2.2/practice.AssemblyInfo.cs
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/practice/obj/Release/netcoreapp2.2/practice.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/practice/obj/Release/netcoreapp2.2/practice.pdb
